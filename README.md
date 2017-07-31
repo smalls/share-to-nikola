@@ -3,7 +3,7 @@ This repo contains a few different ways to streamline posting to [Nikola](https:
 All of these use [Working Copy](https://workingcopyapp.com/) as the communication medium. Your process should allow a `git push` to refresh the hosted version.
 
 
-###Sharing URLs
+### Sharing URLs
 
 The workflow directory contains a [Workflow](https://workflow.is/) to share links (via [Working Copy](https://workingcopyapp.com/)) from the iOS share sheet.
 
@@ -16,7 +16,7 @@ Direct link to the Workflow (I believe you can install it straight from here): [
 More info on how this fits into a process is at [b.splendous.net](http://b.splendous.net/posts/wc-editorial-integration/). 
 
 
-###Editorial
+### Editorial
 
 From [Editorial](http://omz-software.com/editorial/), it's easy to post by copying or refreshing the file back to Working Copy. That won't create the header, though. 
 
